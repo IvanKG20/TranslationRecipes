@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+    Recipes
+
+  Created by Ivan on 3/10/23.
+  
+*/
+
+"favorite" = "Favorite only";
+"featured" = "متميز";
+"list" = "قائمة";
+"profile" = "حساب تعريفي";
+"savedRecipies" = "الوصفات المحفوظة";
+"savedOnly" = "تم الحفظ فقط";
+"oneReview" = "مراجعة واحدة";
+"fiveReviews" = "خمسة مراجعات";
+"tenReviews" = "عشرة مراجعات";
+"completedBadges" = "شارات مكتملة";
